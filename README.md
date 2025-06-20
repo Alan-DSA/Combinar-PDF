@@ -1,3 +1,6 @@
+
+# 🔗Combinar PDFs - Unir Arquivos PDF com Python
+
 Este projeto é um script simples em Python que permite unir vários arquivos PDF em um único documento de forma rápida e prática. Ideal para quem precisa combinar documentos, trabalhos acadêmicos, contratos, relatórios ou qualquer outro tipo de PDF.
 
 O funcionamento é muito simples: basta colocar os arquivos PDF na mesma pasta do script e executar. O programa irá gerar um novo PDF com todos os arquivos combinados na ordem que você definir ou automaticamente seguindo a ordem alfabética dos arquivos na pasta.
