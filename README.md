@@ -6,6 +6,7 @@ Este projeto é um script simples em Python que permite unir vários arquivos PD
 O funcionamento é muito simples: basta colocar os arquivos PDF na mesma pasta do script e executar. O programa irá gerar um novo PDF com todos os arquivos combinados na ordem que você definir ou automaticamente seguindo a ordem alfabética dos arquivos na pasta.
 
 🚀 Funcionalidades:
+
 ✅ Junta múltiplos arquivos PDF em um único.
 
 ✅ Permite escolher manualmente os PDFs ou unir todos os PDFs da pasta automaticamente.
